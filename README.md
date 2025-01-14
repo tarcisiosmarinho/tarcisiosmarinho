@@ -1,6 +1,6 @@
 # 👨‍🏫 Tarcísio Marinho 👨‍💻
 
-**Desenvlvedor FullStack**
+**Desenvolvedor FullStack**
 
 Sou Tarcísio dos Santos Marinho, programador, professor e design. Licenciado em Computação pela Universidade do Estado do Amazonas, com publicações em "[PeerReview](https://www.peerw.org/index.php/journals/article/view/419)" e "[Revista Foco](https://doi.org/10.54751/revistafoco.v16n8-086)". Focado em contribuir para a educação e programação.
 
